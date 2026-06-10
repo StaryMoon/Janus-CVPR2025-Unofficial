@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the original paper."
+title: "Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation"
+type: software
+authors:
+  - family-names: Liu
+    given-names: Minghao
+repository-code: "https://github.com/StaryMoon/Janus-CVPR2025-Unofficial"
+license: MIT
+preferred-citation:
+  type: conference-paper
+  title: "Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation"
+  authors:
+  - family-names: Wu
+    given-names: Chengyue
+  - family-names: Chen
+    given-names: Xiaokang
+  - family-names: Wu
+    given-names: Zhiyu
+  - family-names: Ma
+    given-names: Yiyang
+  - family-names: Liu
+    given-names: Xingchao
+  - family-names: Pan
+    given-names: Zizheng
+  - family-names: Liu
+    given-names: Wen
+  - family-names: Xie
+    given-names: Zhenda
+  - family-names: Yu
+    given-names: Xingkai
+  - family-names: Ruan
+    given-names: Chong
+  - family-names: Luo
+    given-names: Ping
+  conference: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
+  year: 2025
+  url: "https://openaccess.thecvf.com/content/CVPR2025/html/Wu_Janus_Decoupling_Visual_Encoding_for_Unified_Multimodal_Understanding_and_Generation_CVPR_2025_paper.html"
